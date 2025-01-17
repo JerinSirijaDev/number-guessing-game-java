@@ -1,0 +1,12 @@
+# Ignore Java class files
+*.class
+
+# Ignore IDE files
+.idea/
+.vscode/
+
+# Ignore build directories
+/build/
+
+# Ignore node_modules for Node.js
+node_modules/
