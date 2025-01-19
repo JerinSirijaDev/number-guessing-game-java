@@ -15,7 +15,7 @@ The game offers three difficulty levels: **Easy**, **Medium**, and **Expert**, e
 - **Java**: The programming language used for development.
 - **Swing**: Java's GUI toolkit for building the graphical interface.
 
-### Steps to Run:
+## Steps to Run:
 1. Clone the repository to local machine.
 2. Navigate to project directory.
 3. Compile and run the project.
