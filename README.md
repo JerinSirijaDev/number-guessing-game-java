@@ -19,7 +19,11 @@ The game offers three difficulty levels: **Easy**, **Medium**, and **Expert**, e
 1. Clone the repository to local machine.
 2. Navigate to project directory.
 3. Compile and run the project.
+
+![image](https://github.com/user-attachments/assets/3c41e81a-9fb9-40f9-b7ed-6824e257ca75)
    
+👉Check out the v1.0 [here](https://github.com/JerinSirijaDev/number-guessing-game-java/releases/tag/v1.0)
+
 -------------------------------------------------------------------------------------------------------
 - **GitHub**: [@JerinSirijaDev](https://github.com/JerinSirijaDev)
 -------------------------------------------------------------------------------------------------------
